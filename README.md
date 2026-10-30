@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.idenfy.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="check-if-a-company-is-legitimate" />
   </a>
 </p>
 
