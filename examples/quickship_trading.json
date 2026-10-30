@@ -1,0 +1,30 @@
+{
+  "name": "QuickShip Global Trading LLC",
+  "domain": "quickship-global.example",
+  "contact_email": "quickship.sales@gmail.com",
+  "phone_answered": false,
+  "address": {"type": "mailbox", "verified_visually": false},
+  "registry": {
+    "jurisdiction": "US-DE",
+    "company_number": "7712093",
+    "found": true,
+    "status": "active",
+    "incorporated": "2026-07-02",
+    "name_matches": true,
+    "address_matches": false,
+    "recent_name_changes": 0
+  },
+  "licence": {"required": false},
+  "screening": {"sanctions_hit": false, "pep": false, "adverse_media": false},
+  "website": {
+    "domain_created": "2026-08-19",
+    "https": true,
+    "privacy_policy": true,
+    "terms": true,
+    "company_number_on_site": false
+  },
+  "reviews": {"count": 38, "five_star_share": 1.0, "max_same_day": 22, "scam_lawsuit_hits": 0},
+  "references": {"requested": true, "provided": 0, "confirmed": 0},
+  "payment_methods": ["wire", "crypto"],
+  "pressure_language": true
+}

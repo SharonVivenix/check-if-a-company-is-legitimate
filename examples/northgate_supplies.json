@@ -1,0 +1,30 @@
+{
+  "name": "Northgate Supplies Ltd",
+  "domain": "northgate-supplies.example",
+  "contact_email": "accounts@northgate-supplies.example",
+  "phone_answered": true,
+  "address": {"type": "office", "verified_visually": true},
+  "registry": {
+    "jurisdiction": "GB",
+    "company_number": "09876543",
+    "found": true,
+    "status": "active",
+    "incorporated": "2016-03-14",
+    "name_matches": true,
+    "address_matches": true,
+    "recent_name_changes": 0
+  },
+  "licence": {"required": false},
+  "screening": {"sanctions_hit": false, "pep": false, "adverse_media": false},
+  "website": {
+    "domain_created": "2016-02-01",
+    "https": true,
+    "privacy_policy": true,
+    "terms": true,
+    "company_number_on_site": true
+  },
+  "reviews": {"count": 214, "five_star_share": 0.71, "max_same_day": 4, "scam_lawsuit_hits": 0},
+  "references": {"requested": true, "provided": 3, "confirmed": 2},
+  "payment_methods": ["invoice_net_terms", "card"],
+  "pressure_language": false
+}
